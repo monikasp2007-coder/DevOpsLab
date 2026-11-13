@@ -1,6 +1,7 @@
-class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("Learning Distributed Version Control System");
+class Hello
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Welcome to DevOps");
     }
 }
