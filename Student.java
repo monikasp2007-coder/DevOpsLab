@@ -3,6 +3,7 @@ class Student {
         System.out.println("Student Management System");
         System.out.println("Student Name: Ravi");
         System.out.println("New student details added");
+        System.out.println("Student details updated in develop branch");
 
     }
 }
